@@ -1,0 +1,1 @@
+Toto je druhy subor, len skusam pull ci funguje!

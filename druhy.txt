@@ -1,4 +1,4 @@
 Toto je druhy subor, len skusam pull ci funguje!
-A ono to aj normalne funguje!!!
+A ono to aj normalne funguje!!! Vraj tu bude konflikt :(
 Test cez VS Code
 stvrty
